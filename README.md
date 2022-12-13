@@ -1,5 +1,3 @@
-[Githb link](https://github.com/MaorW/k8s-and-docker-hm-pt-2)
-
 [Excercise link](https://docs.google.com/document/d/1fxKi_j-0vQqfhT4g-l4RvvCTFvsNcpfYWaPoJt8Yyls/edit?usp=sharing)
 
 # K8s:
